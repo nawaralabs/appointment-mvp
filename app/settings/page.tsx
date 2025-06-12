@@ -1346,3 +1346,6 @@ export default function SettingsPage() {
                       <div className="space-y-2">
                         <h4 className="text-sm font-medium">Inline Embedding</h4>
                         <p className="text-sm text-gray-\
+    </div> 
+  );
+}
