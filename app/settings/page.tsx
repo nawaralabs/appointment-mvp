@@ -1355,9 +1355,9 @@ export default function SettingsPage() {
               </div>
             </TabsContent>
 
-          </Tabs>      {/* ← close the Tabs */}
-        </div>        {/* ← close max-w-6xl wrapper */}
-      </div>          {/* ← close container */}
-    </div>            {/* ← close min-h-screen wrapper */}
-  );                  {/* ← close return */}
+          </Tabs>      
+        </div>      
+      </div>         
+    </div>          
+  );                  
 } 
