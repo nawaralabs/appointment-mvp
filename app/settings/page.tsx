@@ -1345,7 +1345,19 @@ export default function SettingsPage() {
                     <CardContent className="space-y-4">
                       <div className="space-y-2">
                         <h4 className="text-sm font-medium">Inline Embedding</h4>
-                        <p className="text-sm text-gray-\
-    </div> 
-  );
-}
+                        <p className="text-sm text-gray-500">
+                          Inline Embedding lets you drop the widget directly into your page’s HTML.
+                        </p>
+                      </div>
+                    </CardContent>
+                  </Card>
+                </div>
+              </div>
+            </TabsContent>
+
+          </Tabs>      {/* ← close the Tabs */}
+        </div>        {/* ← close max-w-6xl wrapper */}
+      </div>          {/* ← close container */}
+    </div>            {/* ← close min-h-screen wrapper */}
+  );                  {/* ← close return */}
+} 
